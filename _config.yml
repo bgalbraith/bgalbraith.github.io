@@ -1,0 +1,12 @@
+# Site settings
+title: Byron Galbraith
+email: byron.galbraith@gmail.com
+description: > 
+  I make things!
+baseurl: ""
+url: "https://bgalbraith.github.io"
+twitter_username: bgalbraith
+github_username:  bgalbraith
+
+# Build settings
+markdown: kramdown
